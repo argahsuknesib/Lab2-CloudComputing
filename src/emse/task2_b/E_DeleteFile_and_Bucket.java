@@ -14,7 +14,7 @@ public class E_DeleteFile_and_Bucket {
     public static void main(String[] args) throws Exception {
     	
     	//bucket name
-        String bucket = "bucket.emse.cloud.project";
+        String bucket = "bucket.emse.cloud.project.final";
         
         //region
         Region region = Region.US_EAST_1;
@@ -53,6 +53,7 @@ public class E_DeleteFile_and_Bucket {
             } while(listObjectsV2Response.isTruncated());
             DeleteBucketRequest deleteBucketRequest = DeleteBucketRequest.builder().bucket(bucket).build();
             s3.deleteBucket(deleteBucketRequest);
+            System.out.println("The bucket has been deleted.");
 
         } catch (S3Exception e) {
             System.err.println(e.awsErrorDetails().errorMessage());

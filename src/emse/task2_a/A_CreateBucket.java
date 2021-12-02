@@ -16,7 +16,7 @@ public class A_CreateBucket {
     public static void main(String[] args) throws URISyntaxException {
     	
     	//initializing bucket name
-        String bucketName = "bucket.emse.cloud.project";
+        String bucketName = "bucket.emse.cloud.project.final";
         
         System.out.format("bucket name:  %s\n",bucketName);
         

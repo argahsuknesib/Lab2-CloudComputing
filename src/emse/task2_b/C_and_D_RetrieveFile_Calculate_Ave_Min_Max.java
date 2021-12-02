@@ -20,13 +20,13 @@ public class C_and_D_RetrieveFile_Calculate_Ave_Min_Max {
 	 public static void main(String[] args) {
 		 
 		 //bucket name
-	     String bucketName = "bucket.emse.cloud.project";
+	     String bucketName = "bucket.emse.cloud.project.final";
 	     
 	     //file name
 	     String keyName = "values.csv";
 	     
 	     //path
-	     String path = "C:\\Users\\adminlocal\\M2\\cloud computing\\cloud project 1\\new.txt";
+	     String path = "final-values.txt";
 	     
 	     //region
 	     Region region = Region.US_EAST_1;

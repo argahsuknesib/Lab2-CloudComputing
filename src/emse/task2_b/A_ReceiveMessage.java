@@ -14,7 +14,7 @@ public class A_ReceiveMessage {
   public static void main(String[] args) {
 	  
 	  //queue url
-      String Url="https://sqs.us-east-1.amazonaws.com/004250956885/queue1";
+      String Url="https://sqs.us-east-1.amazonaws.com/915818437072/queue1";
       
       SqsClient sqsClient = SqsClient.builder()
               .region(Region.US_EAST_1)

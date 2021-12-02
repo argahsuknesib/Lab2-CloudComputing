@@ -16,7 +16,7 @@ public class B_Delete_Messages_and_Queue{
       String queueName = "queue1";
       
 	  //queue url
-      String Url="https://sqs.us-east-1.amazonaws.com/004250956885/queue1";
+      String Url="https://sqs.us-east-1.amazonaws.com/915818437072/queue1";
       
       //initializing sqs client & region
       SqsClient sqsClient = SqsClient.builder()

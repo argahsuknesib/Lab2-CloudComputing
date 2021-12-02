@@ -9,5 +9,11 @@
 
 1. src/emse package contains all the code related to the project.
 2. Slides directory contains a presentation of our work with results.
-3. emse package is divided into subpackages in accordance with the 
-    tasks given.
+3. emse package is divided into subpackages in accordance with the tasks given.
+
+        -> as task1_a
+        -> as task1_b
+        -> as task2_a
+        -> as task2_b
+
+    

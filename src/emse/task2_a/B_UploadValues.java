@@ -18,13 +18,13 @@ public class B_UploadValues {
     public static void main(String[] args) {
         
     	//initializing bucket name
-        String bucketName = "bucket.emse.cloud.project";
+        String bucketName = "bucket.emse.cloud.project.final";
         
         //initializing key
         String objectKey = "values.csv";
         
         //initializing file path
-        String objectPath = "C:\\Users\\adminlocal\\M2\\cloud computing\\cloud project 1\\values.csv";
+        String objectPath = "values.csv";
         
         System.out.println("Putting object " + objectKey +" into bucket "+bucketName);
         System.out.println("  in bucket: " + bucketName);

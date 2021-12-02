@@ -17,7 +17,7 @@ public class D_SendMessages {
       String queueName = "queue1";
       
       //initializing message content
-      String message = "bucket name: " + "bucket.emse.cloud.project\n" + "file name: " + "values.csv";
+      String message = "bucket name: " + "bucket.emse.cloud.project.final\n" + "file name: " + "values.csv";
       
       //initializing sqs client & region
       SqsClient sqsClient = SqsClient.builder()
