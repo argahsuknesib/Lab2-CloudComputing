@@ -20,8 +20,8 @@
 # RESULTS :
 
 Task 1A :
-Initialization:
-![image](https://user-images.githubusercontent.com/56338382/144588626-1f52a020-4dc0-4c4a-bdf1-c1d9c615cc3f.png)
+Mnual Initialization:
+defining ec2, name and amId accordingly.
 Result:
 ![Task 1A](Images/task1_a.png)
     
