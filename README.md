@@ -10,6 +10,7 @@
 1. src/emse package contains all the code related to the project.
 2. Slides directory contains a presentation of our work with results.
 3. emse package is divided into subpackages in accordance with the tasks given.
+4. Each class is runnable seperately by manually passing the argument needed to run the class.
 
         -> as task1_a
         -> as task1_b
@@ -19,7 +20,9 @@
 # RESULTS :
 
 Task 1A :
-
+Initialization:
+![image](https://user-images.githubusercontent.com/56338382/144588626-1f52a020-4dc0-4c4a-bdf1-c1d9c615cc3f.png)
+Result:
 ![Task 1A](Images/task1_a.png)
     
 Task 2A - A :
