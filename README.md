@@ -53,6 +53,8 @@ defining s3, bucketName, objectKey, objectPath accordingly.
 
 Result:
 
+![task2A-B](https://user-images.githubusercontent.com/56338382/144591505-33b8c6af-8d74-4636-8437-39332a437f35.PNG)
+
 ![Task 2A - B](Images/task2_a_B.png)
 
 Task 2A - C :
