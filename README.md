@@ -20,12 +20,30 @@
 # RESULTS :
 
 Task 1A :
+
 Mnual Initialization:
 defining ec2, name and amId accordingly.
+
 Result:
+
 ![Task 1A](Images/task1_a.png)
+
+
+Task 1B :
+
+Mnual Initialization:
+defining ec2, name and amId accordingly.
+
+Result:
+
+![task1_B](https://user-images.githubusercontent.com/56338382/144589533-39ff2f51-c618-46a1-9987-c7ea81d91c57.PNG)
     
 Task 2A - A :
+
+Mnual Initialization:
+defining ec2, name and amId accordingly.
+
+Result:
 
 ![Task 2A - A](Images/task2_a_A.png)
 
