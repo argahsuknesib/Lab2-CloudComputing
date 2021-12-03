@@ -8,9 +8,8 @@
 *Instructions*
 
 1. src/emse package contains all the code related to the project.
-2. Slides directory contains a presentation of our work with results.
-3. emse package is divided into subpackages in accordance with the tasks given.
-4. Each class is runnable seperately by manually passing the argument needed to run the class.
+2. emse package is divided into subpackages in accordance with the tasks given.
+3. Each class is runnable seperately by manually passing the argument needed to run the class.
 
         -> as task1_a
         -> as task1_b
