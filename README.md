@@ -20,7 +20,7 @@
 
 Task 1A :
 
-Mnual Initialization:
+Manual Initialization:
 defining ec2, name and amId accordingly.
 
 Result:
@@ -30,7 +30,7 @@ Result:
 
 Task 1B :
 
-Mnual Initialization:
+Manual Initialization:
 defining ec2, name and amId accordingly.
 
 Result:
@@ -39,7 +39,7 @@ Result:
     
 Task 2A - A :
 
-Mnual Initialization:
+Manual Initialization:
 defining s3, bucketName accordingly.
 
 Result:
@@ -48,7 +48,7 @@ Result:
 
 Task 2A - B : 
 
-Mnual Initialization:
+Manual Initialization:
 defining s3, bucketName, objectKey, objectPath accordingly.
 
 Result:
@@ -57,7 +57,7 @@ Result:
 
 Task 2A - C :
 
-Mnual Initialization:
+Manual Initialization:
 defining sqsClient, queueName  accordingly.
 
 Result:
@@ -66,7 +66,7 @@ Result:
 
 Task 2A - D : 
 
-Mnual Initialization:
+Manual Initialization:
 defining sqsClient, queueName, message accordingly.
 
 Result:
@@ -75,7 +75,7 @@ Result:
 
 Task 2B - A:
 
-Mnual Initialization:
+Manual Initialization:
 defining Url, sqsClient accordingly.
 
 Result:
@@ -84,7 +84,7 @@ Result:
 
 Task 2B - B : 
 
-Mnual Initialization:
+Manual Initialization:
 defining sqsClient, Url, messages accordingly.
 
 Result:
@@ -93,7 +93,7 @@ Result:
 
 Task 2B - C &  D : 
 
-Mnual Initialization:
+Manual Initialization:
 defining s3,bucketName,keyName, path accordingly.
 
 Result:
@@ -102,7 +102,7 @@ Result:
 
 Task 2B - E:
 
-Mnual Initialization:
+Manual Initialization:
 defining s3,bucket accordingly.
 
 Result:
