@@ -27,6 +27,7 @@ public class A_CreateBucket {
                 .build();
 
         createBucket (s3, bucketName);
+        
         s3.close();
     }
 
